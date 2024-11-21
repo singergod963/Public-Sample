@@ -1,0 +1,29 @@
+{
+    "paramSettings": [
+        {
+            "command": "setStockIndexes",
+            "params": [
+                {
+                    "key": "isTPE",
+                    "value": "no"
+                },
+                {
+                    "key": "isINDEXNASDAQ",
+                    "value": "yes"
+                },
+                {
+                    "key": "isINDEXDJX",
+                    "value": "yes"
+                },
+                {
+                    "key": "isINDEXSP",
+                    "value": "no"
+                },
+                {
+                    "key": "background",
+                    "value": "101010"
+                }
+            ]
+        }
+    ]
+}
