@@ -1,4 +1,18 @@
 {
+    "order": 15,
+    "adFormatName": "測試",
+    "subADTypeName": "XXXXXXXXXXXX",
+    "previewDevice": [
+        "mobile"
+    ],
+    "sources": [
+        "speed",
+        "direct"
+    ],
+    "universal_id": "6",
+    "bleedConfig": "",
+    "schematicURL": "https://xxx/xxx.png",
+    "xmlURL": "https://xxx/preview.xml",
     "paramSettings": [
         {
             "command": "setStockIndexes",
@@ -25,5 +39,8 @@
                 }
             ]
         }
-    ]
+    ],
+    "banners": [
+    ],
+    "dataIndex": 27
 }
