@@ -19,15 +19,15 @@
             "params": [
                 {
                     "key": "isTPE",
-                    "value": "no"
+                    "value": "yes"
                 },
                 {
                     "key": "isINDEXNASDAQ",
-                    "value": "yes"
+                    "value": "no"
                 },
                 {
                     "key": "isINDEXDJX",
-                    "value": "yes"
+                    "value": "no"
                 },
                 {
                     "key": "isINDEXSP",
